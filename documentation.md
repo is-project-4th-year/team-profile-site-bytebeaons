@@ -4,7 +4,7 @@
 - Daniel Mangong
 - Beldi Kamuha
 - Barasa Michael Murunga
-
+- Odhiambo Ryan 
 ---
 
 # Lessons Learnt from the GitHub Crash Program
